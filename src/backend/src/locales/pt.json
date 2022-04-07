@@ -1,0 +1,97 @@
+{
+  "server_internal": "Erro interno do servidor",
+  "user_controller": {
+    "unfilled_fields": {
+      "name": "Campos não preenchidos",
+      "message": "Preenche todos os campos necessários para dar login"
+    },
+    "email_notfound": {
+      "name": "Email não encontrado",
+      "message": "O email introduzido não existe"
+    },
+    "wrong_password": {
+      "name": "Password incorreta",
+      "message": "A password introduzida está incorreta"
+    },
+    "unfilled_register": {
+      "name": "Campos não preenchidos",
+      "message": "Preenche todos os campos necessários para te registares"
+    },
+    "email_in_use": {
+      "name": "Email em uso",
+      "message": "O email introduzido já está em uso"
+    },
+    "user_in_use": {
+      "name": "Nome de utilizador em uso",
+      "message": "O nome de utilizador introduzido já existe"
+    },
+    "pw_dont_match": {
+      "name": "Passwords não coincidem",
+      "message": "As passwords não coincidem"
+    },
+    "unauthorized": {
+      "name": "Não autorizado",
+      "message": "Password incorreta"
+    },
+    "pw_updated": "Password atualizada com sucesso",
+    "field_updated": "Campo alterado com sucesso",
+    "image_send_success": "Imagem carregada com sucesso",
+    "avatar_no_user_id": {
+      "name": "User id nulo",
+      "message": "User id é necessário para carregar uma imagem"
+    },
+    "avatar_user_not_found": {
+      "name": "User id não encontrado",
+      "message": "User id não encontrado"
+    },
+    "avatar_user_no_avatar": {
+      "name": "Sem avatar",
+      "message": "User id não tem avatar"
+    },
+    "user_not_found": {
+      "name": "Utilizador não encontrado",
+      "Message": "Utilizador não encontrado"
+    }
+  },
+  "delete_account": "Conta apagada com sucesso",
+  "post_controller": {
+    "post_not_found": {
+      "name": "Post não encontrado",
+      "message": "Post com o respetivo ID não existe"
+    },
+    "file_not_found": {
+      "name": "Ficheiro não encontrado",
+      "message": "Ficheiro não encontrado"
+    },
+    "unauthorized": {
+      "name": "Sem permissão",
+      "message": "Não tens permissão para editar o post"
+    },
+    "file_upload_success": "Ficheiros carregados com sucesso",
+    "post_updated_succes": "Post atualizado com sucesso",
+    "post_deleted": "Post apagado com sucesso"
+  },
+  "follow_controller": {
+    "followed": "Seguiste {{username}}",
+    "unfollowed": "Deixaste de seguir {{username}}",
+    "is_not_following": {
+      "name": "Não segues",
+      "message": "Não podes deixar de seguir um utilizador que não segues"
+    }
+  },
+  "comment_controller": {
+    "not_found": {
+      "name": "Comentário não encontrado",
+      "message": "Comentário não encontrado"
+    },
+    "not_authorized": {
+      "name": "Sem permissão",
+      "message": "Não tens permissão para editar este comentário"
+    },
+    "deleted": {
+      "name": "Apagado",
+      "message": "Comentário apagado"
+    }
+  }
+}
+

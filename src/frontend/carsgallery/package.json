@@ -1,0 +1,47 @@
+{
+  "name": "carsgallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "i18n:report": "vue-cli-service i18n:report --src \"./src/**/*.?(js|vue)\" --locales \"./src/locales/**/*.json\""
+  },
+  "dependencies": {
+    "@isneezy/vue-selectize": "^0.6.1",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "dateformat": "^4.5.1",
+    "selectize": "^0.12.6",
+    "vue": "^2.6.12",
+    "vue-i18n": "^8.22.3",
+    "vue-loading-overlay": "^3.0",
+    "vue-router": "^3.5.1",
+    "vue-sweetalert2": "^4.3.1",
+    "vue-toast-notification": "^0.6.2",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0",
+    "vuex-persistedstate": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "^1.0.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-vuex": "^4.5.13",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.29.0",
+    "eslint-plugin-vue": "^7.12.1",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-i18n": "~2.1.1",
+    "vue-cli-plugin-vuetify": "~2.4.0",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

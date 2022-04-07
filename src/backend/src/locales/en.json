@@ -1,0 +1,96 @@
+{
+  "server_internal": "Internal server error",
+  "user_controller": {
+    "unfilled_fields_login": {
+      "name": "Unfilled fields",
+      "message": "Please fill all required fields to login"
+    },
+    "email_notfound": {
+      "name": "Email not found",
+      "message": "The email does not exist"
+    },
+    "wrong_password": {
+      "name": "Invalid password",
+      "message": "Password is wrong"
+    },
+    "unfilled_fields_register": {
+      "name": "Unfilled fields",
+      "message": "Please fill all required fields to register"
+    },
+    "user_in_use": {
+      "name": "Username already in use",
+      "message": "This username already exists"
+    },
+    "email_in_use": {
+      "name": "Email already in use",
+      "message": "This email already exists"
+    },
+    "pw_dont_match": {
+      "name": "Passwords don't match",
+      "message": "The passwords don't match"
+    },
+    "unauthorized": {
+      "name": "Unauthorized",
+      "message": "Wrong password"
+    },
+    "pw_updated": "Password updated succesfully",
+    "field_updated": "Field updated succesfully",
+    "image_send_success": "Image uploaded successfully",
+    "avatar_no_user_id": {
+      "name": "No user id",
+      "message": "Please provide a user id to upload the image"
+    },
+    "avatar_user_not_found": {
+      "name": "User's Not found",
+      "message": "User not found"
+    },
+    "avatar_user_no_avatar": {
+      "name": "No avatar",
+      "message": "User has no avatar"
+    },
+    "user_not_found": {
+      "name": "User not found",
+      "message": "User not found"
+    }
+  },
+  "delete_account": "Account successfully deleted",
+  "post_controller": {
+    "post_not_found": {
+      "name": "Post not found",
+      "message": "Post not found with that ID"
+    },
+    "file_not_found": {
+      "name": "File not found",
+      "message": "File not found"
+    },
+    "unauthorized": {
+      "name": "Unauthorized",
+      "message": "You do not own this post to modify it"
+    },
+    "file_upload_success": "Files uploaded successfully",
+    "post_updated_succes": "Post updated successfully",
+    "post_deleted": "Post deleted successfully"
+  },
+  "follow_controller": {
+    "followed": "You followed {{username}}",
+    "unfollowed": "You unfollowed {{username}}",
+    "is_not_following": {
+      "name": "Not following",
+      "message": "You are not following that user to unfollow"
+    }
+  },
+  "comment_controller": {
+    "not_found": {
+      "name": "Comment not found",
+      "message": "Comment not found"
+    },
+    "not_authorized": {
+      "name": "Unauthorized",
+      "message": "No permission to edit this comment"
+    },
+    "deleted": {
+      "name": "Deleted",
+      "message": "Comment deleted"
+    }
+  }
+}
