@@ -1,5 +1,5 @@
 # CarsGallery
-## CarsGallery is a social media for car photos/videos sharing.
+## CarsGallery is a social media for cars photos/videos sharing.
 This was my final high school IT course project (2021). 
 I think it was a great experience because it teached me many things about web development, especially VueJS and ExpressJS.
 
