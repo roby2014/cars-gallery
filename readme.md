@@ -12,3 +12,6 @@ I think it was a great experience because I learnt many things about web develop
 ### Some images: <br>
 <a href="https://github.com/roby2014/cars-gallery/tree/master/app_images/"> Images here </a>
 
+### Credits
+I want to thank deepz, Diogo Cardoso and ExpG for the help they gave me throughout the project development.
+
