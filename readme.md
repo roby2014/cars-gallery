@@ -9,6 +9,9 @@ I think it was a great experience because I learnt many things about web develop
    - [Backend](https://github.com/roby2014/cars-gallery/tree/master/backend): NodeJS + ExpressJS (Typescript!)
    - [Database](https://github.com/roby2014/cars-gallery/tree/master/backend/prisma/schema.prisma): MySQL + Prisma (ORM)
 
+### Report
+The project [report](https://github.com/roby2014/cars-gallery/tree/master/pap_roberto.pdf) is written in portuguese.
+
 ### Some images: <br>
 <a href="https://github.com/roby2014/cars-gallery/tree/master/app_images/"> Images here </a>
 
