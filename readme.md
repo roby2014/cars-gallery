@@ -1,7 +1,12 @@
 # CarsGallery
 ## CarsGallery is a social media for cars photos/videos sharing.
 This was my final high school IT course project (2021). 
-I think it was a great experience because I learnt many things about web development, especially VueJS and ExpressJS.
+
+### Grade
+**19/20** ☹️
+
+### Note
+This was my first touch with Vue and Express (and also web development in general), so don't expect **perfect** code.
 
 ### Tech used:
    - MEVN Stack - MySQL + ExpressJs + VueJS + NodeJS
@@ -17,4 +22,5 @@ The project [report](https://github.com/roby2014/cars-gallery/tree/master/pap_ro
 
 ### Credits
 I want to thank deepz, Diogo Cardoso and ExpG for the help they gave me throughout the project development.
+
 
